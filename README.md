@@ -6,6 +6,6 @@
 -Project 5  Level Meter  
 -Project 6  FSM  
 -Mini Clock  
--Project 4  TFT  
+-Project 7  TFT  
 
 
